@@ -1,6 +1,6 @@
 # Car_Price_Prediction
- Domain : Automobile 
-Description : Developed a machine learning model to predict car prices based on various features such as model,
+ Domain : Automobile  <br />
+ Description : Developed a machine learning model to predict car prices based on various features such as model,
  mileage, year of manufacture, fuel type. The project involved data preprocessing, feature engineering, model
  selection, and evaluation to achieve accurate price predictions.
  Algorithms Used : Linear Regression, Non-Linear, Regression, Lasso, Ridge, Elastic-Net, Random Forest Regressor,
