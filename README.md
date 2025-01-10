@@ -1,4 +1,4 @@
-# Car_Price_Prediction
+# Resale Car Price Prediction
  Domain : Automobile  <br />
  Description : Developed a machine learning model to predict car prices based on various features such as model,
  mileage, year of manufacture, fuel type. The project involved data preprocessing, feature engineering, model
